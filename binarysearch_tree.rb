@@ -1,3 +1,5 @@
+#### reference :git://gist.github.com/812489.git
+
 module BinarySearchTree
   class Node
     attr_reader :word, :count, :left, :right
